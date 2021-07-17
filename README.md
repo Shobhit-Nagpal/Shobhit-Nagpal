@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning development
 - 💞️ I’m looking to collaborate on anything which can help you
 - 📫 How to reach me: drop me an email at shobhitsnagpal@gmail.com
-- Check out my website <a href = "https://shobhitsnagpal.wixsite.com/website">here</a>
+- Check out my website <a href = "https://shobhitsnagpal.wixsite.com/website" target = "_blank">here</a>
 
 <!---
 Shobhit-Nagpal/Shobhit-Nagpal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
