@@ -2,9 +2,9 @@ Hi, I’m @Shobhit-Nagpal.
 
 Learning && building.
 
-- Fullstack web developer (MERN)
-- Studying blockchain currently
-- Neovim user btw
+- Fullstack web developer
+- Answering my curiosities through code.
+- I use Neovim btw
 
 [![Shobhit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shobhit-Nagpal&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
