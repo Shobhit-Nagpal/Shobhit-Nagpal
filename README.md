@@ -1,10 +1,6 @@
-Hi, I’m @Shobhit-Nagpal.
+hi, i’m shobhit.
 
-Learning && building.
-
-- Fullstack web developer
-- Answering my curiosities through code.
-- I use Neovim btw
+fullstack web dev, learning new things and i use neovim.
 
 [![Shobhit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shobhit-Nagpal&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
